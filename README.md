@@ -9,9 +9,8 @@ Este projeto implementa um sistema de machine learning para prever se uma oferta
 
 O retorno esperado para cada **cliente** e **oferta** é definido como:  
 
-$
-\text{Retorno Esperado} = \text{avg_amount} \times \text{completed_proba}
-$
+
+Retorno Esperado = avg_amount * completed_proba
 
 Onde:  
 - **avg_amount**: valor médio das transações do cliente  
